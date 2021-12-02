@@ -1,4 +1,4 @@
-# Software_Design_Group_5
+# Software_Design_Group_3
 
 Software Design Course using StarUML and Eclipse
 
